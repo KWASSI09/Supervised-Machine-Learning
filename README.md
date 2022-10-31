@@ -1,3 +1,18 @@
+# Learning Objectives
+
+* Explain how machine learning algorithms are used in data analytics.
+* Create training and testing sets from a specified dataset.
+* Implement linear and logistic regressions by using scikit-learn.
+* Create confusion matrixes for classification outputs.
+* Calculate and apply fundamental classification algorithms: logistic regression, support vector machine (SVM), and k-nearest neighbors (KNN).
+* Quantify and evaluate classification models by using confusion matrixes.
+* Implement one-hot encoding in Pandas, and scaling and normalization with scikit-learn.
+* Calculate and apply bagging and boosting methods to create and use ensemble algorithms.
+* Describe regularization parameters for regressions, and select appropriate parameters for a given problem.
+* Use Random Forests and LASSO regressions to assist in the feature selection process.
+
+
+
 # Supervised Machine Learning Homework - Predicting Credit Risk
 
 In this assignment, you will be building a machine learning model that attempts to predict whether a loan will be approved or not. 

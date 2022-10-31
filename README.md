@@ -1,4 +1,4 @@
-# Learning Objectives
+# Supervised Machine Learning Objectives
 
 * Explain how machine learning algorithms are used in data analytics.
 * Create training and testing sets from a specified dataset.
@@ -13,7 +13,7 @@
 
 
 
-# Supervised Machine Learning Homework - Predicting Credit Risk
+# Predicting Credit Risk
 
 In this assignment, you will be building a machine learning model that attempts to predict whether a loan will be approved or not. 
 
